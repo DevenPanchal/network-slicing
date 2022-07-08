@@ -15,6 +15,7 @@ and
 @software{Panchal_Network_Slicing_ML,
 author = {Panchal, Deven},
 title = {{Network Slicing ML models}},
+url = {https://github.com/DevenPanchal/network-slicing},
 version = {1.0.0}
 }
 ```
@@ -25,5 +26,5 @@ Panchal, D. (2022f). Operationalizing Machine Learning models using Acumos Java 
 ```
 and
 ```
-Panchal, D. Network Slicing ML models (Version 1.0.0) [Computer software]
+Panchal, D. Network Slicing ML models (Version 1.0.0) [Computer software]. https://github.com/DevenPanchal/network-slicing
 ```
