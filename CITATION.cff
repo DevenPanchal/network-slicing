@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you refer to this ML model, please cite it as below."
+authors:
+  - family-names: Panchal
+    given-names: Deven
+    orcid: https://orcid.org/0000-0001-6431-6328
+title: "Network Slicing ML models"
+version: 1.0.0
