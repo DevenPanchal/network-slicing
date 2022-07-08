@@ -5,4 +5,5 @@ authors:
     given-names: Deven
     orcid: https://orcid.org/0000-0001-6431-6328
 title: "Network Slicing ML models"
+url: "https://github.com/DevenPanchal/network-slicing"
 version: 1.0.0
