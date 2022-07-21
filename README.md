@@ -22,7 +22,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D. (2022f). Operationalizing Machine Learning models using Acumos Java Client and Acumos Model Runner. Unpublished manuscript.
+Panchal, D. (2022f). From Models to Microservices: Easily Operationalizing Machine Learning models using Acumos Java Client and Acumos Model Runner. Unpublished manuscript.
 ```
 and
 ```
