@@ -6,7 +6,7 @@ If you refer to this ML model, please cite the below.
 ```
 @unpublished{p2,
   author = "Deven Panchal",
-  title  = "Operationalizing Machine Learning models using Acumos Java Client and Acumos Model Runner",
+  title  = "From Models to Microservices: Easily Operationalizing Machine Learning models using Acumos Java Client and Acumos Model Runner",
   year   = 2022
 }
 ```
