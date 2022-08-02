@@ -6,7 +6,7 @@ If you refer to this ML model, please cite the below.
 ```
 @unpublished{p2,
   author = "Deven Panchal",
-  title  = "From Models to Microservices: Easily Operationalizing Machine Learning models using Acumos Java Client and Acumos Model Runner",
+  title  = "From Models to Microservices: Easily Operationalizing Machine Learning models",
   year   = 2022
 }
 ```
@@ -22,7 +22,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D. (2022f). From Models to Microservices: Easily Operationalizing Machine Learning models using Acumos Java Client and Acumos Model Runner. Unpublished manuscript.
+Panchal, D. (2022f). From Models to Microservices: Easily Operationalizing Machine Learning models. Unpublished manuscript.
 ```
 and
 ```
