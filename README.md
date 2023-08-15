@@ -5,7 +5,7 @@ If you refer to this ML model, please cite the below.
 ### Bibtex:  
 ```
 @unpublished{p2,
-  author = "Deven Panchal",
+  author = "Deven Panchal and Isilay Baran and Dan Musgrove and David Lu",
   title  = "From Models to Microservices: Easily Operationalizing Machine Learning models",
   year   = 2023
 }
@@ -22,7 +22,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D. (2023f). From Models to Microservices: Easily Operationalizing Machine Learning models. Unpublished manuscript.
+Panchal, D., Baran, I., Musgrove, D., & Lu, D. (2023). From Models to Microservices: Easily Operationalizing Machine Learning models. Unpublished manuscript.
 ```
 and
 ```
