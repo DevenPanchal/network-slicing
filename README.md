@@ -1,4 +1,6 @@
 # Network Slicing
+[![DOI](https://zenodo.org/badge/511896490.svg)](https://zenodo.org/doi/10.5281/zenodo.13836088)
+
 
 If you refer to this ML model, please cite the below.
 
